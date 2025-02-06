@@ -1,0 +1,5 @@
+streamlit
+groq
+Pillow
+python-dotenv
+reportlab
