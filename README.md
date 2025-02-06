@@ -59,3 +59,13 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Share on LinkedIn
+
+Excited to share my latest project, Smart Diet Analyzer! 🎉
+
+Smart Diet Analyzer is an AI-powered application that analyzes food images to provide nutritional information and calorie estimates. Whether you're a fitness enthusiast or just curious about your meals, this tool can help you make informed dietary choices.
+
+Check out the project on GitHub: [Smart Diet Analyzer](https://github.com/SURESHBEEKHANI/Smart-Diet-Analyzer)
+
+#AI #MachineLearning #HealthTech #Nutrition #OpenSource
